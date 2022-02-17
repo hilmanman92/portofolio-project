@@ -1,5 +1,4 @@
-# portofolio-project
-Data Science Portofolio
+## Data Science Portofolio
 
 ### Project 1: Cyclistic (Google Data Analytics Capstone Project) - R
   1. Analyze historical trips data from past 12 months to identify trends and discover relations between
