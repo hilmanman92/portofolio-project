@@ -1,6 +1,7 @@
 ## Data Science Portofolio
 
 ### Project 1: Cyclistic (Google Data Analytics Capstone Project)
+<a href="https://www.kaggle.com/hilmanman92/project-capstone-cyclistic" target="_blank">Link Code</a>
 [Link Code](https://www.kaggle.com/hilmanman92/project-capstone-cyclistic)
      
      1. Analyze historical trips data from past 12 months to identify trends and discover relations between bike usage among annual members and casual (~3.8 millions records)
