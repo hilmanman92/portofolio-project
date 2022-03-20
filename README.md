@@ -48,8 +48,11 @@
 ---
 
 ## Project 5: Medical Cost (Kaggle Dataset)
-<a href="https://www.kaggle.com/hilmanman92/customer-personality-analysis-kmeans-clustering" title="Go to Kaggle">Project 4</a>
+<a href="https://www.kaggle.com/code/hilmanman92/medical-cost" title="Go to Kaggle">Project 4</a>
 
 1. Perform Data Cleansing and ETL (Extract, Transform, Load)
 2. Perform medical cost using Regression Algorithm Machine Learning
 3. Predict cost medicine
+![Distplot](https://github.com/hilmanman92/portofolio-project/blob/main/image/project5-distplot.png)
+![Gridplot](https://github.com/hilmanman92/portofolio-project/blob/main/image/project5-gridplot.png)
+![Score](https://github.com/hilmanman92/portofolio-project/blob/main/image/project5-scorepredictions.png)
