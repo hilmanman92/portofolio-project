@@ -44,3 +44,12 @@
 3. Optimizing Promotions Campaign Based on Clustering Results
 ![Elbow method](https://github.com/hilmanman92/portofolio-project/blob/main/image/project4-elbow.png)
 ![Clustering Plot](https://github.com/hilmanman92/portofolio-project/blob/main/image/project4-clustering%20plot.png)
+
+---
+
+## Project 5: Medical Cost (Kaggle Dataset)
+<a href="https://www.kaggle.com/hilmanman92/customer-personality-analysis-kmeans-clustering" title="Go to Kaggle">Project 4</a>
+
+1. Perform Data Cleansing and ETL (Extract, Transform, Load)
+2. Perform medical cost using Regression Algorithm Machine Learning
+3. Predict cost medicine
