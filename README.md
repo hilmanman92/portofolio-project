@@ -48,7 +48,7 @@
 ---
 
 ## Project 5: Medical Cost (Kaggle Dataset)
-<a href="https://www.kaggle.com/code/hilmanman92/medical-cost" title="Go to Kaggle">Project 4</a>
+<a href="https://www.kaggle.com/code/hilmanman92/medical-cost" title="Go to Kaggle">Project 5</a>
 
 1. Perform Data Cleansing and ETL (Extract, Transform, Load)
 2. Perform medical cost using Regression Algorithm Machine Learning
