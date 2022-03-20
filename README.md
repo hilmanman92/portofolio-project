@@ -65,6 +65,6 @@
 1. Perform Data Cleansing and ETL (Extract, Transform, Load)
 2. Perform feature engineering and data visualization
 3. Predict Rating Store using Classification Algorithm Machine Learning
-![Distplot](https://github.com/hilmanman92/portofolio-project/blob/main/image/project5-distplot.png)
-![Gridplot](https://github.com/hilmanman92/portofolio-project/blob/main/image/project5-gridplot.png)
-![Score](https://github.com/hilmanman92/portofolio-project/blob/main/image/project5-scorepredictions.png)
+![Distplot](https://github.com/hilmanman92/portofolio-project/blob/main/image/project6-distplot.png)
+![Lineplot-Hour](https://github.com/hilmanman92/portofolio-project/blob/main/image/project6-lineplot.png)
+![Lineplot-DayHour](https://github.com/hilmanman92/portofolio-project/blob/main/image/project6-lineplot2.png)
