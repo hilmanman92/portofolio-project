@@ -56,3 +56,15 @@
 ![Distplot](https://github.com/hilmanman92/portofolio-project/blob/main/image/project5-distplot.png)
 ![Gridplot](https://github.com/hilmanman92/portofolio-project/blob/main/image/project5-gridplot.png)
 ![Score](https://github.com/hilmanman92/portofolio-project/blob/main/image/project5-scorepredictions.png)
+
+---
+
+## Project 6: Supermarket (Kaggle Dataset)
+<a href="https://www.kaggle.com/code/hilmanman92/supermarket-eda-predictions#Exploratory-Data-Analysis-(EDA)" title="Go to Kaggle">Project 6</a>
+
+1. Perform Data Cleansing and ETL (Extract, Transform, Load)
+2. Perform feature engineering and data visualization
+3. Predict Rating Store using Classification Algorithm Machine Learning
+![Distplot](https://github.com/hilmanman92/portofolio-project/blob/main/image/project5-distplot.png)
+![Gridplot](https://github.com/hilmanman92/portofolio-project/blob/main/image/project5-gridplot.png)
+![Score](https://github.com/hilmanman92/portofolio-project/blob/main/image/project5-scorepredictions.png)
